@@ -1,4 +1,4 @@
-# Yii Simple View Opener - yii-view-opener
+# Yii Simple View Opener
 
 Use to easily open a view file of render methods in Yii and Yii 2 Framework.
 
