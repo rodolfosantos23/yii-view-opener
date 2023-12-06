@@ -2,9 +2,18 @@
   "name": "yii-view-opener",
   "displayName": "yii-view-opener",
   "description": "Click to open a view file of render methods in Yii or Yii2",
-  "version": "1.0.1",
+  "version": "1.0.0",
+  "publisher": "rodolfosantos23",
+  "author": {
+    "name": "Rodolfo Santos",
+    "email": "rodolfosantos23@gmail.com"
+  },
   "engines": {
     "vscode": "^1.84.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodolfosantos23/yii-view-opener"
   },
   "categories": [
     "Other"
